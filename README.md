@@ -1,10 +1,6 @@
-# SantoriniCLI
-Santorini game played via CLI; project for OOP class
-
-
 # Santorini Board Game
 
-This project is an implementation of the classic board game Santorini in Python, played via the command line interface.
+This project is an implementation of the classic board game Santorini in Python, played via the command line interface. This was created as a project for an OOP course.
 
 
 ## Table of Contents
